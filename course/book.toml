@@ -1,0 +1,11 @@
+[book]
+authors = ["Rob Cobb", "Ope Bukola", "Mohammed Saudi", "Keno Omu"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Future Proof with Python"
+
+[build]
+build-dir = "output"
+create-missing = false
+use-default-preprocessors = false
